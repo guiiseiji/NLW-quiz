@@ -12,18 +12,26 @@
 }
 
 body {
-
     background-color: #0f172a;
 }
 
 main {
     padding: 20px;
+    max-width: 640px;
+    margin: 0 auto 64px;
+}
+
+body img{
+    max-width: 50px;
 }
 
 header{
     margin: 64px;
     padding-bottom: 24px;
     border-bottom: 1px solid #334155;
+    display: flex;
+    flex-direction: block;
+    gap: 20px;
 }
 
 header h1{
