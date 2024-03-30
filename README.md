@@ -29,8 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido durante a semana NWL da RocketSeat com o intuito de desenvolver habilidades dentro do universo HTML+CSS+JavaScript
-
+Projeto desenvolvido com o intuito de criar um questionário, sobre assuntos diversos que possa ser utilizado para testar conhecimentos adquiridos. Esse projeto foi desenvolvido surante a semana NLW da RocketSeat.
 
 ## 📝 Licença
 
